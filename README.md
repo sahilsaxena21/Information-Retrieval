@@ -1,5 +1,4 @@
-# Information-Retrieval (IR)
-IR System Implementation
+# Information Retrieval (IR)
 
 This program builds an IR system using a set of 1000+ files from an open source dataset.
 
